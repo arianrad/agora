@@ -1,3 +1,6 @@
+
+![Agora CivilTech Country/City-Wide Decision Making Application](agora_repo.png)
+
 # Agora
 
 **Your city. Your choice. Your vote.**
