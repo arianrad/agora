@@ -3,11 +3,14 @@
 
 # Agora
 
-**Your city. Your choice. Your vote.**
+**Your county/city. Your choice. Your vote.**
 
 Agora is an open-source concept for a civic governance platform where citizens directly elect the companies and organizations that run their public services — roads, transit, utilities, healthcare, education, and more. It replaces opaque government procurement with a transparent, citizen-driven decision system.
 
 This repository is not a product to be deployed or imposed on any government. It is a public square for an idea: a demonstrable, buildable alternative that anyone can study, fork, criticize, or bring to life.
+
+## 🚀 Live Demo
+[Try it here](https://arianrad.github.io/agora/)
 
 ---
 
